@@ -28,10 +28,13 @@ Di luar menulis kode, saya sangat antusias dalam membangun komunitas dan membagi
 Saya selalu terbuka untuk diskusi mengenai kolaborasi *project*, *event* teknologi, eksplorasi data, atau sekadar obrolan seputar inovasi AI.
 
 <div align="left">
-  <a href="(https://www.linkedin.com/in/riyandimuhm/)" target="_blank">
+  <a href="https://riyandimuhamad-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00ACC1?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/riyandimuhm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="(https://www.instagram.com/ryndimuhm__)" target="_blank">
+  <a href="https://www.instagram.com/ryndimuhm__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:riyandiiimuhammad@gmail.com" target="_blank">
