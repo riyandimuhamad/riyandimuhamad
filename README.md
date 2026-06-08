@@ -28,7 +28,7 @@ Di luar menulis kode, saya sangat antusias dalam membangun komunitas dan membagi
 Saya selalu terbuka untuk diskusi mengenai kolaborasi *project*, *event* teknologi, eksplorasi data, atau sekadar obrolan seputar inovasi AI.
 
 <div align="left">
-  <a href="https://riyandimuhamad-portfolio.vercel.app/" target="_blank">
+  <a href="https://porto.riyandimhmdr.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00ACC1?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/riyandimuhm/" target="_blank">
