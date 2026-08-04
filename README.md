@@ -1,46 +1,42 @@
-# Hi there, I'm Riyandi! 👋 
+# Riyandi Muhamad Rizki
 
-🚀 **Tech Enthusiast | AI & Data Explorer | Tech Educator**
+**Information Systems Student | AI & Data Explorer | Web Developer**
 
-Saya adalah mahasiswa semester 6 program studi Sistem Informasi di Institut Teknologi Garut yang memiliki ketertarikan mendalam pada bagaimana data dan kecerdasan buatan dapat memecahkan masalah dunia nyata. Saat ini, saya sedang fokus mengembangkan kompetensi di bidang *Artificial Intelligence* dan mengeksplorasi interseksi antara pengembangan web, analisis data, dan keamanan siber.
+Saya adalah mahasiswa program studi Sistem Informasi di Institut Teknologi Garut. Saya memiliki minat besar pada bagaimana data dan kecerdasan buatan dapat memecahkan masalah dunia nyata, serta mengeksplorasi pengembangan web dan manajemen infrastruktur IT. Di luar penulisan kode, saya juga aktif dalam mengelola operasional event dan membagikan pengetahuan melalui kegiatan akademik maupun kerelawanan (volunteer).
 
-Di luar menulis kode, saya sangat antusias dalam membangun komunitas dan membagikan pengetahuan teknologi agar lebih mudah dipahami oleh banyak orang.
+### Aktivitas Saat Ini
+* Terus mengeksplorasi teknologi Machine Learning dan arsitektur web (fullstack) pasca kelulusan dari program Studi Independen Pijak & IBM SkillsBuild.
+* Mengembangkan platform SaaS menggunakan React dan Supabase sebagai Pendiri Bersama dan Pengembang Utama di JD Music Entertainment.
+* Berperan aktif dalam berbagai kegiatan volunteer dan manajemen acara (Event Management), mulai dari perencanaan hingga memastikan kelancaran operasional di lapangan.
 
-### 🔭 Apa yang sedang saya lakukan sekarang?
-* 🧠 Sedang intensif mengikuti **Program Pijak in collaboration with IBM SkillsBuild Dicoding (Track AI Engineer)** untuk mendalami implementasi *Machine Learning* dan ekosistem AI.
-* 📊 Menjadi Data Storyteller & Analyst di **"Dibalik Data"**, membedah fakta di balik ribuan kata melalui analisis sentimen publik berbasis Data & AI.
-* 👨‍🏫 Membimbing mahasiswa mengeksplorasi infrastruktur IT sebagai **Asisten Praktikum Jaringan Komputer**, setelah sebelumnya aktif mengajar **Pengantar Teknologi Informasi**.
-* 🤝 Mengabdi sebagai pengurus di **Divisi Kompetensi HIMASISFO**, merancang dan mengeksekusi program pengembangan *skill* untuk sesama mahasiswa.
+### Pengalaman Profesional & Akademik
+* **Program Pijak x IBM SkillsBuild (Track AI Engineer)** — Alumni & Lulusan Terbaik (Feb 2026 – Jul 2026)
+  Menyelesaikan pelatihan intensif pengembangan kecerdasan buatan, membangun model *Machine Learning & Deep Learning* menggunakan Python, dan berhasil meraih predikat Lulusan Terbaik.
+* **JD Music Entertainment** — Pendiri Bersama & Pengembang Utama (Jan 2025 – Sekarang)
+* **Institut Teknologi Garut** — Asisten Praktikum Jaringan Komputer, Pengantar TI, dan Konsep Basis Data (Feb 2025 – Jul 2026)
+* **SMAS Ciledug Al-Musaddadiyah** — Staff IT & Multimedia (Okt 2022 – Sep 2025)
 
-### 💻 Tech Stack & Tools
-* **Languages:** HTML, CSS, PHP, JavaScript, Python (Data/AI focus)
-* **Frameworks & Libraries:** Laravel, React
-* **Data & AI:** Data Mining, Data Warehousing, Machine Learning Basics, Data Visualization
-* **Concepts:** Information Systems Audit, Network Security, Human-Computer Interaction (HCI), Project Management
+### Tech Stack & Tools
+* **Programming & Web:** HTML, CSS, JavaScript, PHP, Python, React.js, Tailwind CSS, Laravel
+* **Data & Analytics:** Data Mining, Business Intelligence, Machine Learning & Deep Learning, Looker Studio, Streamlit, Google Colab
+* **Infrastructure & IT Ops:** MySQL, Supabase, Cloudflare, Cisco Networking (CCNA), MikroTik, Wireshark
+* **Creative & Design:** Figma (UI/UX), Adobe Premiere Pro, Illustrator, OBS Studio
 
-### 🌟 Highlighted Projects
-* ☕ **[Bandung-Coffee-Analytics](https://github.com/riyandimuhamad/Bandung-Coffee-Analytics)**: Analisis Geospasial dan Machine Learning untuk memetakan saturasi *coffee shop* di wilayah Bandung Raya.
-* 🌲 **[West Java Deforestation & Disaster Dashboard](https://lookerstudio.google.com/reporting/930c959b-01f7-4ed5-ad88-dcf828755c14)**: Visualisasi data dan dasbor analitik untuk memetakan serta menganalisis korelasi antara deforestasi dan bencana hidrometeorologi di Jawa Barat.
-* 🌤️ **[AtmosTrack]((https://github.com/riyandimuhamad/AtmosTrack))**: (Dasbor cuaca interaktif berbasis Laravel yang mengintegrasikan *real-time* multi-API dengan fitur manajemen data favorit dan panel analisis statistik.)
-* 🗓️ **agendain / KopiKita / HILAL-CHECKER**: Eksplorasi pengembangan web interaktif menggunakan PHP dan HTML.
+### Proyek Pilihan
+* **AgriTrend-DSS**: Pengembangan Decision Support System (DSS) untuk analisis tren pertanian menggunakan algoritma Machine Learning, dibangun sebagai *Capstone Project* unggulan untuk Program Pijak.
+* **PT Wastu Cipta Nagara (Corporate Website)**: Mengembangkan sistem backend CMS dengan kapabilitas Multi-Admin, serta merancang arsitektur deployment server dan infrastruktur email enterprise tanpa biaya menggunakan Cloudflare Email Routing & Google SMTP.
+* **Bandung-Coffee-Analytics**: Proyek analisis geospasial dan machine learning untuk memetakan tingkat kejenuhan (saturasi) kedai kopi di wilayah Bandung Raya.
+* **West Java Deforestation Dashboard**: Visualisasi data dan dasbor analitik berbasis Looker Studio untuk memetakan korelasi antara deforestasi dan bencana hidrometeorologi di Jawa Barat.
+* **AtmosTrack**: Dasbor cuaca interaktif berbasis Laravel yang mengintegrasikan multi-API secara real-time dengan fitur manajemen data dan panel analisis statistik.
+* **Personal Portfolio Website**: Platform branding personal yang dibangun menggunakan React, Vite, dan Tailwind CSS dengan penerapan animasi interaktif.
 
-### 📫 Let's Connect!
-Saya selalu terbuka untuk diskusi mengenai kolaborasi *project*, *event* teknologi, eksplorasi data, atau sekadar obrolan seputar inovasi AI.
+### Hubungi Saya
+Saya sangat terbuka untuk diskusi mengenai kolaborasi proyek, peluang karier, eksplorasi AI & Big Data, maupun kolaborasi *event*.
 
-<div align="left">
-  <a href="https://porto.riyandimhmdr.my.id/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00ACC1?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/riyandimuhm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ryndimuhm__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:riyandiiimuhammad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+* **Portfolio:** [porto.riyandimhmdr.my.id](https://porto.riyandimhmdr.my.id/)
+* **LinkedIn:** [linkedin.com/in/riyandimuhm](https://www.linkedin.com/in/riyandimuhm/)
+* **Instagram:** [@ryndimuhm__](https://www.instagram.com/ryndimuhm__)
+* **Email:** riyandiiimuhammad@gmail.com
 
 ---
-*"Turning complex data into compelling stories and building tech that empowers others."*
+"Mengubah data menjadi wawasan yang bermakna dan membangun teknologi yang memberikan dampak nyata."
